@@ -38,7 +38,7 @@
 
 /* Begin PBXFileReference section */
 		1D1F1CB79798A17AB672B3B5 /* Pods-nathantudctestdemo_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-nathantudctestdemo_Example.release.xcconfig"; path = "Pods/Target Support Files/Pods-nathantudctestdemo_Example/Pods-nathantudctestdemo_Example.release.xcconfig"; sourceTree = "<group>"; };
-		3A8A8617EFC8DD107B482C1E /* nathantudctestdemo.podspec */ = {isa = PBXFileReference; includeInIndex = 1; name = nathantudctestdemo.podspec; path = ../nathantudctestdemo.podspec; sourceTree = "<group>"; };
+		3A8A8617EFC8DD107B482C1E /* nathantudctestdemo.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = nathantudctestdemo.podspec; path = ../nathantudctestdemo.podspec; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		3B6C1D7F7E9D02CEC75880BF /* Pods_nathantudctestdemo_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_nathantudctestdemo_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		6003F58A195388D20070C39A /* nathantudctestdemo_Example.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = nathantudctestdemo_Example.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		6003F58D195388D20070C39A /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
@@ -65,8 +65,8 @@
 		85940E95FE79302AC85F6DFB /* Pods-nathantudctestdemo_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-nathantudctestdemo_Tests.release.xcconfig"; path = "Pods/Target Support Files/Pods-nathantudctestdemo_Tests/Pods-nathantudctestdemo_Tests.release.xcconfig"; sourceTree = "<group>"; };
 		873B8AEA1B1F5CCA007FD442 /* Main.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = Main.storyboard; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		8C86B31AF3E2824620733A47 /* Pods_nathantudctestdemo_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_nathantudctestdemo_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		A596B4B85F855C0D27653A39 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; name = README.md; path = ../README.md; sourceTree = "<group>"; };
-		D5D1F8BB54E4036675F55F54 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
+		A596B4B85F855C0D27653A39 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = ../README.md; sourceTree = "<group>"; };
+		D5D1F8BB54E4036675F55F54 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */

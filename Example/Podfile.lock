@@ -1,0 +1,16 @@
+PODS:
+  - nathantudctestdemo (0.1.0)
+
+DEPENDENCIES:
+  - nathantudctestdemo (from `../`)
+
+EXTERNAL SOURCES:
+  nathantudctestdemo:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  nathantudctestdemo: bf66bd3b05c6f8d90fa37fa6c26beb5708fa9824
+
+PODFILE CHECKSUM: 0d8e61ecd17e1a1c7719aae1e6f9aa6897038614
+
+COCOAPODS: 1.5.3
