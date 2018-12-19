@@ -2,15 +2,15 @@ PODS:
   - nathantudctestdemo (0.1.0)
 
 DEPENDENCIES:
-  - nathantudctestdemo (from `../`)
+  - nathantudctestdemo
 
-EXTERNAL SOURCES:
-  nathantudctestdemo:
-    :path: "../"
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - nathantudctestdemo
 
 SPEC CHECKSUMS:
-  nathantudctestdemo: bf66bd3b05c6f8d90fa37fa6c26beb5708fa9824
+  nathantudctestdemo: 1cba7249c2380f29bbcc88903e8be55f075cc2c7
 
-PODFILE CHECKSUM: 0d8e61ecd17e1a1c7719aae1e6f9aa6897038614
+PODFILE CHECKSUM: addbbebd9da61fd62c23b60bc18314c0a233ca23
 
 COCOAPODS: 1.5.3
